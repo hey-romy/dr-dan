@@ -6,8 +6,9 @@
   border-radius: 0.375rem;
   padding: 1.5em !important;
 }
-
-
+.dark-mode .notion-code {
+  background-color: #292929;
+  border-color: rgba(55, 65, 81, 1);
 }
 .notion code {
   color: rgba(31, 41, 55, 1);
