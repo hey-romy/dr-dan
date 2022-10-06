@@ -58,7 +58,7 @@ export default siteConfig({
     },
     {
       title: 'Agende sua consulta',
-      pageId: '0a3b36e52fba446e81f21d7e0c89ab32#77ce5e24193a42bda5a4e66f816e0142'
+      pageId: '#77ce5e24193a42bda5a4e66f816e0142'
     }
   ]
 })
