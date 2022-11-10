@@ -53,8 +53,8 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+      title: 'Doctoralia',
+      pageId: 'https://www.doctoralia.com.br/dan-christian-erler/psiquiatra-geriatra/jandira'
     },
     {
       title: 'Agende sua consulta',
