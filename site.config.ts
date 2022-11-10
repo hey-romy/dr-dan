@@ -53,12 +53,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Doctoralia',
-      pageId: '77ce5e24193a42bda5a4e66f816e0142'
+      title: 'Especialidades',
+      pageId: '#77ce5e24193a42bda5a4e66f816e0142'
     },
     {
       title: 'Agende sua consulta',
-      pageId: '77ce5e24193a42bda5a4e66f816e0142'
+      pageId: '#77ce5e24193a42bda5a4e66f816e0142'
     }
   ]
 })
