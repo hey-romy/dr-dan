@@ -54,7 +54,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Especialidades',
-      pageId: '#77ce5e24193a42bda5a4e66f816e0142'
+      pageId: '#dfe50f455dcd4403b97db28fc69cc82a'
     },
     {
       title: 'Agende sua consulta',
